@@ -1,4 +1,5 @@
 const supportedLngs = {
+	zh: { nativeName: "中文" },
 	en: { nativeName: "English" },
 	de: { nativeName: "Deutsch" },
 }
@@ -6,7 +7,7 @@ const supportedLngs = {
 $(function () {
 	i18next.use(i18nextBrowserLanguageDetector).use(i18nextChainedBackend).init({
 		debug: false,
-		fallbackLng: ["en", "de"],
+		fallbackLng: ["zh", "en", "de"],
 		detection: {
 			order: ['localStorage', 'navigator'],
 			caches: ['localStorage'],

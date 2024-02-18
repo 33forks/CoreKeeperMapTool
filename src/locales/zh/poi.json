@@ -1,0 +1,108 @@
+{
+	"category": {
+		"bosses": "头目",
+		"optional_bosses": "支线头目",
+		"points_of_interest": "地点"
+	},
+	"location": {
+		"the_underground": "地下",
+		"larva_hive": "幼虫巢穴",
+		"ruins": "被遗忘的废墟",
+		"clay": "粘土洞穴",
+		"stone": "Stone",
+		"sunken_sea": "沉没之海",
+		"the_wilderness": "埃齐欧斯荒野",
+		"desert_of_beginnings": "起源荒漠"
+	},
+	"description": "<strong>{{name}}</strong><br>地点: {{locations}}<br>距离核心: {{radii}}",
+	"bosses": {
+		"glurch": {
+			"name": "戈勒蚩",
+			"full_name": "恶形巨物·戈勒蚩"
+		},
+		"ghorm": {
+			"name": "戈尔姆",
+			"full_name": "吞噬者·戈尔姆"
+		},
+		"hive_mother": {
+			"name": "虫巢之母",
+			"full_name": "虫巢之母"
+		},
+		"azeos": {
+			"name": "埃齐欧斯",
+			"full_name": "天空泰坦·埃齐欧斯"
+		},
+		"omoroth": {
+			"name": "欧墨若斯",
+			"full_name": "海洋泰坦·欧墨若斯"
+		},
+		"ra-akar": {
+			"name": "拉阿卡尔",
+			"full_name": "黄沙泰坦·拉阿卡尔"
+		}
+	},
+	"optional_bosses": {
+		"malugaz": {
+			"name": "玛鲁格兹",
+			"full_name": "堕落者·玛鲁格兹"
+		},
+		"ivy": {
+			"name": "艾薇",
+			"full_name": "带毒巨物·艾薇"
+		},
+		"morpha": {
+			"name": "摩尔法",
+			"full_name": "水栖巨物·摩尔法"
+		},
+		"igneous": {
+			"name": "伊格尼欧斯",
+			"full_name": "熔融巨物·伊格尼欧斯"
+		}
+	},
+	"points_of_interest": {
+		"mold_dungeon": {
+			"name": "霉菌群系",
+			"full_name": "霉菌群系"
+		},
+		"the_vault": {
+			"name": "金库",
+			"full_name": "金库"
+		},
+		"broken_core_1": {
+			"name": "坏掉的核心 1",
+			"full_name": "坏掉的核心 1"
+		},
+		"broken_core_2": {
+			"name": "坏掉的核心 2",
+			"full_name": "坏掉的核心 2"
+		},
+		"broken_core_3": {
+			"name": "坏掉的核心 3",
+			"full_name": "坏掉的核心 3"
+		},
+		"titan_temple": {
+			"name": "泰坦神庙",
+			"full_name": "泰坦神庙"
+		},
+		"prince_dungeon": {
+			"name": "Prince Dungeon",
+			"full_name": "Prince Dungeon"
+		},
+		"queen_dungeon": {
+			"name": "Queen Dungeon",
+			"full_name": "Queen Dungeon"
+		},
+		"king_dungeon": {
+			"name": "King Dungeon",
+			"full_name": "King Dungeon"
+		},
+		"ancient_forge": {
+			"name": "Ancient Forge",
+			"full_name": "Ancient Forge"
+		},
+		"crystal_meteor": {
+			"name": "Crystal Meteor",
+			"full_name": "Crystal Meteor"
+		}
+	}
+}
